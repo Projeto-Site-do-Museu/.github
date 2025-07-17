@@ -22,9 +22,8 @@ Ela é composta por diversos repositórios, cada um representando um componente 
 
 #### Equipe 4 - Criação de imagens 3D dos objetos do museu
 - Giuliano Marcus Bianco
-- Lucas Luiz Guesser
-- Rudolph Fischer Gunther
 - Thiago Dietrich
+- Bruno Avelino Dick
   
 #### Equipe 5 - Criação de textos e fotos sobre os objetos do museu
 - Cleiton Bernardo Batista (Coordenador)
