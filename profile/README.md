@@ -30,12 +30,14 @@ Ela é composta por diversos repositórios, cada um representando um componente 
 - Lucius Pedemonte Kirchheim
 
 #### Equipe 6 - Gerenciamento e atualização do site do museu
+> Repositório: https://github.com/Projeto-Site-do-Museu/ifsc-museu-saojose
 - Luis Renato Freitas de Almeida
 - Nicolas Arthur Raulino Oliveira (Coordenador)
 - Victor Blum
 - Vitor Nascimento
 
 #### Equipe 7 - Criação de uma versão do site do museu utilizando wordpress/projeto Tainacan
+> Repositório: https://github.com/Projeto-Site-do-Museu/wordpress-tainacan
 - Antonio Marcos da Silva (Coordenador)
 - Bernardo Silva Bombazaro
 - Fernanda Mattos Vieira
