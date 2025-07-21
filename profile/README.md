@@ -21,6 +21,7 @@ Ela é composta por diversos repositórios, cada um representando um componente 
 - Kauana da Cruz
 
 #### Equipe 4 - Criação de imagens 3D dos objetos do museu
+> Repositório: https://github.com/Projeto-Site-do-Museu/museu-3D
 - Giuliano Marcus Bianco
 - Thiago Dietrich
 - Bruno Avelino Dick
