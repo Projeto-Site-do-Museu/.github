@@ -9,6 +9,7 @@ Ela é composta por diversos repositórios, cada um representando um componente 
 
 ### 2025-2:
 #### Equipe 1 - Elaboração de tour virtual do museu
+> Repositório: https://github.com/Projeto-Site-do-Museu/Virtual_Tour
 - Lucas Gabriel David da Silva (Coordenador)
 - João Pedro Callegaro Guimaraes
 - Lucas de Leon Rodrigues Coelho
